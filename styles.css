@@ -67,3 +67,8 @@ nav {
 .date {
   color: #9d8684;
 }
+
+.blog-entry-text h2, p {
+  color: #9d8684;
+  text-align: left;
+}
